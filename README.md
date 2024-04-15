@@ -1,3 +1,3 @@
-# El juego en navegador web TicTacToe
+# El juego TicTacToe en navegador web
 
-Esta es una aplicacion del juego Tic Tac Toe
+Esta es una aplicación del juego Tic Tac Toe
