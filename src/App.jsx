@@ -17,7 +17,7 @@ function App() {
 		setWinner(null);
 	};
 
-	const updateBoard = index => {
+	const updateBoard = (index) => {
 		//si ya hay una jugada en esa posición o si hay un ganador, que no haga nada
 		if (board[index] || winner) return;
 
